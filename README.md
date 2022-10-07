@@ -1,3 +1,3 @@
 # My student card
 
-[](https://sadovoyvladimir.github.io/StudentCard/)
+[]('https://sadovoyvladimir.github.io/StudentCard/')
